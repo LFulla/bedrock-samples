@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\behavior_pack",
+    "\\behavior_pack\\entities",
+    "\\behavior_pack\\recipes",
+    "\\metadata",
+    "\\metadata\\script_modules",
+    "\\metadata\\script_modules\\@minecraft",
+    "\\metadata\\vanilladata_modules",
+    "\\resource_pack",
+    "\\resource_pack\\fogs"
+  ],
+  "SelectedNode": "\\behavior_pack\\entities\\evocation_illager.json",
+  "PreviewInSolutionExplorer": false
+}
