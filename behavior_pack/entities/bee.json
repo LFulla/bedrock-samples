@@ -827,6 +827,12 @@
                         "look_for_food"
                     ]
                 },
+                "add" : {
+                    "component_groups": [
+                        "shelter_detection"
+                    ]
+                },
+
                 "add": {
                     "component_groups": [
                         "return_to_home"
